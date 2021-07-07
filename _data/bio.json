@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Vin F.",
+    "label": "Fresh Graduate",
+    "picture": "https://VinTheAlpaca.github.io/images/OIP-C.png",
+    "email": "vinfsz@163.com",
+    "phone": "",
+    "website": "https://VinTheAlpaca.github.io",
+    "summary": "I am a fresh postgraduate with a Major of Business Analytics. I have 1 year working experience as a data analyst in commercial bank and few month of failed entrepreneurial experience. Now I am about to restart my new career as a business analyst.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Hangzhou",
+      "countryCode": "CN",
+      "region": "Zhejiang"
     },
     "profiles": [
       {
@@ -39,19 +39,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Business Analysis",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Data Mining",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Machine Learning",
       "keywords": [
       ]
     }
