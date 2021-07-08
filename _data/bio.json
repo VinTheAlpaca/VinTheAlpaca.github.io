@@ -19,16 +19,6 @@
         "network": "github",
         "username": "VinTheAlpaca",
         "url": "http://github.com/VinTheAlpaca"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
       }
     ]
   },
@@ -36,8 +26,6 @@
     {
       "name": "Business Analysis",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
