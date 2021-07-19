@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Vin F.",
+    "name": "Shengzhe Feng",
     "label": "Fresh Graduate",
     "picture": "https://VinTheAlpaca.github.io/images/Alpaca1.jpg",
     "email": "vinfsz@163.com",
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Toolsets",
       "level": "",
       "keywords": [
         "Tableau",
@@ -64,8 +64,8 @@
       "institution": "University of Bath",
       "area": "Business Analytics",
       "studyType": "MSc",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2019-09-01",
+      "endDate": "2021-01-13",
       "gpa": "",
       "courses": [
       ]
